@@ -20,7 +20,7 @@
 
 <h3>🔖 Programming Language🔖</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohjiwoo-lab)](https://github.com/Ohjiwoo-lab/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohjiwoo-lab&layout=compact&langs_count=8)](https://github.com/Ohjiwoo-lab/github-readme-stats)
 
 <!--
 **Ohjiwoo-lab/Ohjiwoo-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
