@@ -2,7 +2,7 @@
   
 - 🔭 I’m currently studying in colleage  
   
-- 🌱 I’m currently learning Front-end  
+- 🌱 I’m currently learning Server and Cloud
   
 <br/>  
 
