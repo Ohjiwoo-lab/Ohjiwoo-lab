@@ -44,10 +44,10 @@
 
 <br/>  
 
-## ✨ Github Stats ✨ 
+## ✨ Github Status ✨ 
 <img src="https://github-readme-stats.vercel.app/api?username=Ohjiwoo-lab&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="center" />
 
-## ⚡ Language ⚡
+## ⚡ Language & Algorithm ⚡
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohjiwoo-lab&layout=compact&theme=onedark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jiu3159)](https://solved.ac/jiu3159)
 
