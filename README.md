@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hi, I'm Ohjiwoo👋
+# Hi, I'm Ohjiwoo👋
   
 🔭 I’m currently studying in colleage  
   
