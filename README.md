@@ -1,13 +1,15 @@
+<div align="center">
+  
 ### Hi, I'm Ohjiwoo👋
   
-- 🔭 I’m currently studying in colleage  
+🔭 I’m currently studying in colleage  
   
-- 🌱 I’m currently learning Server and Cloud
+🌱 I’m currently learning Server and Cloud
   
 <br/>  
 
 
-## My Skill Set  
+## 🛠 My Skill Set 🛠
 <table><tr><td valign="top" width="33%">
 
 ### Programming Language  
@@ -42,20 +44,11 @@
 
 <br/>  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ohjiwoo-lab&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## ✨ Github Stats ✨ 
+<img src="https://github-readme-stats.vercel.app/api?username=Ohjiwoo-lab&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="center" />
 
-<!--
-**Ohjiwoo-lab/Ohjiwoo-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Language ⚡
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohjiwoo-lab&layout=compact&theme=onedark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jiu3159)](https://solved.ac/jiu3159)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
