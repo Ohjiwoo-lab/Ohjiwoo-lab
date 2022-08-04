@@ -2,12 +2,12 @@
   
 # Hi, I'm Ohjiwoo👋
   
-🔭 I’m currently studying in colleage  
-  
-🌱 I’m currently learning Server and Cloud
-  
-<br/>  
+🔭 I’m currently studying in colleage   
 
+🌱 I’m currently learning Back-end   
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Ohjiwoo)](https://velog.io/@jiwoo_048)    
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jiwoo_048)](https://github.com/eungyeole/velog-readme-stats)
 
 ## 🛠 My Skill Set 🛠
 <table><tr><td valign="top" width="33%">
