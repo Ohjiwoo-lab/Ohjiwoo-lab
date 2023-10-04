@@ -4,7 +4,7 @@
   
 🔭 I’m currently studying in colleage   
 
-🌱 I’m currently learning Back-end   
+🌱 I’m currently learning Cloud/Infra
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Ohjiwoo)](https://velog.io/@jiwoo_048)    
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jiwoo_048)](https://github.com/eungyeole/velog-readme-stats)
