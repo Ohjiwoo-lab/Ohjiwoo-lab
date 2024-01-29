@@ -1,7 +1,9 @@
 # Hi, I'm Ohjiwoo👋
   
-- Interests: Cloud/Infra   
+- Interests: Cloud/Infra
+  
 - Blog: <a href="https://ohease.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-orange.svg?&style=for-the-badge"/></a>
+
 - Study Records: [Ohjiwoo-lab/TIL](https://github.com/Ohjiwoo-lab/TIL)
 
 <br/>
