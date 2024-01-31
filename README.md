@@ -2,7 +2,7 @@
   
 - Interests: Cloud/Infra
   
-- Blog: <a href="https://ohease.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-orange.svg?&style=for-the-badge"/></a>
+- Blog: [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Ohjiwoo)](https://velog.io/@jiwoo_048)    
 
 - Study Records: [Ohjiwoo-lab/TIL](https://github.com/Ohjiwoo-lab/TIL)
 
