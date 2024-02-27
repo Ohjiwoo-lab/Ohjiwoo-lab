@@ -1,4 +1,6 @@
 # Hi, I'm Ohjiwoo👋
+
+- I am studying with the goal of becoming an AWS expert.
   
 - Interests: Cloud/Infra
   
