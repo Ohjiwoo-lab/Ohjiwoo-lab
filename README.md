@@ -13,7 +13,7 @@ I'm constantly studying to design good architecture.
 
 - [AWS 리소스 동적 관리 프로젝트](https://github.com/Ohjiwoo-lab/cloud-project)
   
-  - HTCondor Cluster 구축(AWS EC2)
+  - Terraform과 Ansible을 이용한 HTCondor Cluster 구축
   - 이벤트 기반 이메일 알림 서비스(AWS CloudTrail + EventBridge + SNS)
 
 <br/>
