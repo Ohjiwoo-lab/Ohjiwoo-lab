@@ -1,6 +1,7 @@
 ### Hi, I'm Ohjiwoo👋 
 
-I'm constantly studying to design good architecture.
+I am interested in cloud and AWS. I am studying how to efficiently build and operate a system using AWS.
+
 <hr/>
 
 **📚 Record**
